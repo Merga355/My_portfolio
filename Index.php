@@ -716,15 +716,15 @@ if ($con) {
 
       </div>
 
-    </section><!-- End Contact Section -->
+    </section>
 
 
 
-  </main><!-- End #main -->
+  </main>
 
 
 
-  <!-- ======= Footer ======= -->
+  
 
   <footer>
 
@@ -766,7 +766,6 @@ if ($con) {
 
 
 
-  <!-- Vendor JS Files -->
 
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
 
@@ -782,7 +781,6 @@ if ($con) {
 
 
 
-  <!-- Template Main JS File -->
 
   <script src="assets/js/main.js"></script>
 
